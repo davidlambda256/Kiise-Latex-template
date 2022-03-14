@@ -1,4 +1,4 @@
-# 한국정보과학회 학회 논문 Latex tamplate #
+# 한국정보과학회 학회 논문 Latex template #
 
 ----------
 
